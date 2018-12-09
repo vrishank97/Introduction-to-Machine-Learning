@@ -14,4 +14,5 @@ Moudle 5 - Neural Networks : Learning and Backpropagation
 1. Install Anaconda for Python3 from https://www.anaconda.com/download/
 2. Install Git
 3. Clone/Download this repository
-4. Launch the Jupter Notebook in the Module 1 sub-directory
+4. How Jupyter notebook works! http://cs231n.github.io/ipython-tutorial/?fbclid=IwAR2ZhC3strNko9CmKJdskF4tt4ERMNviWVoj4wr9pBsQ3dsfJrxK1JF5UDc
+5. Launch the Jupter Notebook in the Module 1 sub-directory 
