@@ -1,12 +1,14 @@
 # Introduction to Machine Learning in Python
 ## Course Structure
-Module 1 - Linear Regression
+Module 1 - Getting Familiar with Numpy
 
-Module 2 - Logistic Regression
+Module 2 - Linear Regression
 
-Module 3 - Neural Networks : Representation and Forward pass
+Module 3 - Logistic Regression
 
-Moudle 4 - Neural Networks : Learning and Backpropagation
+Module 4 - Neural Networks : Representation and Forward pass
+
+Moudle 5 - Neural Networks : Learning and Backpropagation
 
 ## Setup
 1. Install Anaconda for Python3 from https://www.anaconda.com/download/
