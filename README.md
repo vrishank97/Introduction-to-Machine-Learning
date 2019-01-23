@@ -8,7 +8,7 @@ Module 3 - Logistic Regression
 
 Module 4 - Neural Networks : Representation and Forward pass
 
-Moudle 5 - Neural Networks : Learning and Backpropagation
+Moudle 5 - Neural Networks : Learning and Backpropagation (Coming Soon!!)
 
 ## Setup
 1. Install Anaconda for Python3 from https://www.anaconda.com/download/
